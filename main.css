@@ -1,0 +1,23 @@
+/*
+Copyright 2022 Con Godsted for Arrowood Designs. All rights reserved.
+*/
+.item {
+    width: 50%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: grayscale(100%);
+    transition: filter .5s;
+    text-align: center;
+    margin: 0%;
+}
+.item p {
+    background-color: white;
+    font-weight: bold;
+}
+
+.item:hover {
+    filter: grayscale(0%);
+    transition: filter .5s;
+}

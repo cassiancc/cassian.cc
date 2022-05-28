@@ -1,0 +1,77 @@
+/*
+Copyright 2022 Con Godsted for Arrowood Designs. All rights reserved.
+*/
+* {
+    font-family: 'Oswald', sans-serif;
+}
+a {
+    padding: 0px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+header {
+    display:flex;
+    background-color: black;
+    border-bottom: #d22d59 5px solid;
+}
+strong {
+    color:#d22d59;
+}
+nav { 
+    text-align: center;
+    align-self: flex-end;
+}
+nav a {
+    padding: 20px 0 0px 0;
+}
+body {
+    margin: 0;
+}
+footer {
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: black 10px solid;
+    border-bottom: black 10px solid;
+    text-align: center;
+    font-style: italic;
+    position: bottom;
+    bottom:0;
+    width: 100%;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: #d22d59;
+}
+a:active {
+    color: #d22d59;
+} 
+footer a {
+    margin: 10px;
+}
+.item {
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin: 0%;
+}
+.item p {
+    background-color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+}
+main {
+    background-color: white;
+}

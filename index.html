@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Con Godsted</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+        <link href="mobile.css" rel="stylesheet" media="(max-device-width: 480px)">
+        <link rel="stylesheet" href="web.css">
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="desktop.css" media="(min-device-width:481px)">
+        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <header>
+            <nav>
+                <a href="about.html"><i class="fa fa-user-o" aria-hidden="true"></i> About</a>
+                <a href="resume.html"><i class="fa fa-vcard-o" aria-hidden="true"></i> Resume</a>
+                <img id="logo" src="Godsted.png" alt="Godsted Web Designs">
+                <a href="index.html"><strong><i class="fa fa-photo" aria-hidden="true"></i> Portfolio</strong></a>
+                <a href="mailto:congodsted@gmail.com"><i class="fa fa-handshake-o" aria-hidden="true"></i> Contact</a>
+            </nav>
+            <div id="mobilenav">
+                <label id="hamburger" class="shown" for="touch"><span><i class="fa fa-bars fa-2x" alt="dropdown"></i></span></label>               
+                <input type="button" class="hidden" onclick="dropdown()" id="touch"> 
+                <label id="nothamburger" class="hidden" for="close"><span><i class="fa fa-times fa-2x" alt="dropdown"></i></span></label>               
+                <input type="button" class="hidden" onclick="closedropdown()" id="close"> 
+            </div> 
+        </header>
+        <main class="hidden" id="index">
+            <div id="ia" class="item">
+                <p>INTERalliance of Greater Cincinnati</p>
+            </div>
+            <div id="to" class="item">
+                <p>TechOlympics</p>
+            </div>
+            <div id="carnegie" class="item">
+                <p>The Carnegie</p>
+            </div>
+            <div id="arrowood" class="item">
+                <p>Arrowood Designs</p>
+            </div>
+        </main>
+        <div id="dropdown" class="hidden">
+            <a href="about.html">About</a>
+            <a href="resume.html">Resume</a>
+            <a href="index.html">Portfolio</a>
+            <a href="mailto:congodsted@gmail.com">Contact</a>
+        </div>
+        <footer>
+            <a target="_blank" href="https://www.linkedin.com/in/con-godsted/"><i alt="LinkedIn" class="fa fa-linkedin fa-2x"></i></a>
+            <a target="_blank" href="https://instagram.com/conrivals"><i alt="Instagram" class="fa fa-instagram fa-2x"></i></a>
+        </footer>
+        <script src="scripts.js"></script>
+    </body>
+</html>
