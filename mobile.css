@@ -1,5 +1,5 @@
 /*
-Copyright 2022 Con Godsted for Arrowood Designs. All rights reserved.
+Copyright 2022 Con Godsted. All rights reserved.
 */
 nav { 
     display:none;
@@ -94,14 +94,4 @@ footer {
 #hamburger, #nothamburger {
     font-size: 200%;
     color: #d9d2cc;
-}
-#ia {
-    background-image: url(interalliance.png);
-    background-position: top;
-}
-#to {
-    background-image: url(techolympics.png);
-}
-#carnegie {
-    background-image: url(filler.png);
 }
