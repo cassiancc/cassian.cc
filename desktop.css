@@ -12,6 +12,13 @@ nav {
     height: auto;
     padding: 20px 20px 0px 20px;
 }
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+.buttons button {
+    width: 100%;
+}
 #index {
     display: flex;
     margin-left: auto;
