@@ -13,6 +13,8 @@ a {
 header {
     display:flex;
     background-color: black;
+    align-items: center;
+    justify-content: center;
     border-bottom: #d22d59 5px solid;
 }
 strong {
@@ -40,6 +42,10 @@ footer {
     bottom:0;
     width: 100%;
 }
+footer a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
 a:link {
     color: white;
 }
@@ -62,11 +68,6 @@ footer a {
     background-size: cover;
     text-align: center;
     margin: 0%;
-}
-.item p {
-    background-color: white;
-    text-transform: uppercase;
-    font-weight: bold;
 }
 
 body {
