@@ -29,8 +29,8 @@ nav {
 }
 .item {
     background-color: gainsboro;
-    width: 65vh;
-    height: 60vh;
+    width: 35%;
+    height: 60%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
