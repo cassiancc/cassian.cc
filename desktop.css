@@ -30,16 +30,20 @@ nav {
 .item {
     background-color: gainsboro;
     width: 35%;
+    min-width: 400px;
+    max-width: 500px;
     height: 60%;
+    min-height: 600px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
-    margin: 2%;
     padding: 1%;
+    margin: 2%;
     border: 5px solid gray;
     border-radius: 5px;
 }
+
 .item p {
     text-align: left;
     padding-left: 10px;
