@@ -4,14 +4,14 @@
         <title>Con Godsted</title>
         <meta charset="utf-8">
         <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
-        <link href="mobile.css" rel="stylesheet" media="(max-device-width: 670px)">
-        <link rel="stylesheet" href="web.css">
-        <link rel="stylesheet" href="main.css">
-        <link rel="stylesheet" href="desktop.css" media="(min-device-width:671px)">
+        <link rel="stylesheet" href="css/web.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/mobile.css" media="(max-device-width: 670px)">
+        <link rel="stylesheet" href="css/desktop.css" media="(min-device-width:671px)">
         <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
         <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"> 
     </head>
     <body>
@@ -21,57 +21,106 @@
             </nav>
         </header>
         <main class="hidden" id="index">
-            <div class="item">
+            <div class="item wordpress">
                 <img src="images/interalliance.png" alt="Preview of INTERalliance's website">
-                <h1>The INTERalliance of Greater Cincinnati</h1>
                 <div class="itemflex">
-                    <p class="date">2019-Ongoing</p>
-                    <p class="date">Elementor/Wordpress Site</p>
-                    <div class="buttons">
-                        <a target="_blank" href="https://interalliance.org"><button>Visit Site</button></a>
-                        <a target="_blank" href="https://web.archive.org/web/20190117120701/https://interalliance.org/"><button>Visit Pre-Redesign</button></a>
-                    </div>
+                    <h1>INTERalliance</h1>
                 </div>
-                <p>Lead Systems Admin at IA. Maintained, developed, and redesigned the website across three years.</p>
+                <p onclick="openCollapsible(this)">Lead Systems Admin at IA. Maintained, developed, and redesigned the website across three years.</p>
+                <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
+                <div class="drop-div">
+                    <p>Over the years I've managed and maintained the site, making small improvements and content changes as needed.</p>
+                    <p>In 2022, I led a team to completely redesign the site from the ground up, improving elements ignored over the years.</p>
+                    <p>Notice: The INTERalliance site is copyrighted by the INTERalliance of Greater Cincinnati, and I work on the site while employed there.</p>
+            
+                </div>        
+                <div class="itemflex">
+                    <span title="I was hired to work on the IA site June 3, 2019, and am still employed." class="false-button">2019-Ongoing</span>
+                    <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
+                </div>
+                <div class="itemflex">
+                    <a class="false-button" target="_blank" href="https://interalliance.org">Visit Site</a>
+                    <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://interalliance.org/">Visit Pre-Redesign</a>
+                </div>
             </div>
-            <div class="item">
+            <div class="item wordpress">
                 <img src="images/techolympics.png" alt="Preview of the website for TechOlympics">
-                <h1>TechOlympics</h1> 
                 <div class="itemflex">
-                    <p class="date">2019-Ongoing</p>
-                    <p class="date">Elementor/Wordpress Site</p>
-                    <div class="buttons">
-                        <a target="_blank" href="https://techolympics.org"><button>Visit Site</button></a>
-                        <a target="_blank" href="https://web.archive.org/web/20190117120701/https://techolympics.org"><button>Visit Pre-Redesign</button></a>
-                     </div>
+                    <h1>TechOlympics</h1> 
                 </div>
-                <p>Maintained and later rebuilt the website for the nation's largest student-run tech conference from scratch.</p>
+                <p onclick="openCollapsible(this)">Maintained and later rebuilt the website for the nation's largest student-run tech conference from scratch.</p>
+                <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
+                <div class="drop-div">
+                    <p>Most of my time spent managing the TechOlympics site has been general maintenance.</p>
+                    <p>In 2021, I remade the entire site from scratch in Elementor following INTERalliance's shift from our former WYSIWG software.</p>
+                    <p>TechOlympics is copyrighted by the INTERalliance of Greater Cincinnati, and I work on the site while employed there.</p>
+                </div>
+                <div class="itemflex">
+                    <span title="I was hired to work on the TechOlympics site June 3, 2019, and am still employed." class="false-button">2019-Ongoing</span>
+                    <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
+                </div>
+                <div class="itemflex">
+                    <a class="false-button" target="_blank" href="https://techolympics.org">Visit Site</a>
+                    <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://techolympics.org">Visit Pre-Redesign</a>
+                </div>
             </div>
-            <div class="item">
+            <div class="item wordpress">
                 <img src="images/carnegie.png" alt="Preview of the website for The Carnegie.">
-                <h1>The Carnegie</h1>
                 <div class="itemflex">
-                    <p class="date">2021-2022</p>
-                    <p class="date">Elementor/Wordpress Site</p>
-                    <div class="buttons">
-                        <a target="_blank" href="https://thecarnegie.com"><button>Visit Site</button></a>
-                        <a target="_blank" href="https://web.archive.org/web/20190117120701/https://thecarnegie.com"><button>Visit Pre-Redesign</button></a>
-                     </div>
+                    <h1>The Carnegie</h1>
                 </div>
-                <p>Rebuilt the website for the local theatre as the sole frontend developer.</p>
+                <p onclick="openCollapsible(this)">Rebuilt the website for the local theatre as the sole frontend developer.</p>
+                <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
+                <div class="drop-div">
+                    <p>While working at INTERalliance, our IT team was asked to remake the website for fellow Cincinnati non-profit The Carnegie.</p>
+                    <p>The Carnegie site is copyrighted by the The Carnegie, and I worked on the site while employed at the INTERalliance of Greater Cincinnati.</p>
+                </div>
+                <div class="itemflex">
+                    <span class="false-button" title="This project started development June 1, 2021, and the redesign went live October 2021.">2021-2022</span>
+                    <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
+                </div>
+                <div class="itemflex">
+                    <a class="false-button" target="_blank" href="https://thecarnegie.com">Visit Site</a>
+                    <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://thecarnegie.com">Visit Pre-Redesign</a>
+                </div>
             </div>
+            
         </main>
-        <div id="dropdown" class="hidden">
-            <a href="about.html">About</a>
-            <a href="resume.html">Resume</a>
-            <a href="index.html">Portfolio</a>
-            <a href="mailto:congodsted@gmail.com">Contact</a>
-        </div>
         <footer>
-            <a target="_blank" href="https://github.com/congodsted"><i class="fa fa-github fa-2x"></i>
-            <a target="_blank" href="https://www.linkedin.com/in/con-godsted/"><i alt="LinkedIn" class="fa fa-linkedin fa-2x"></i></a>
-            <a target="_blank" href="mailto:congodsted@gmail.com"><i class="fa fa-envelope fa-2x"></i></a>
+            <div id="social">
+                <a target="_blank" href="https://github.com/ConGodsted"><i class="fa fa-github fa-2x"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/in/con-godsted/"><i alt="LinkedIn" class="fa fa-linkedin fa-2x"></i></a>
+                <a target="_blank" href="mailto:congodsted@gmail.com"><i class="fa fa-envelope fa-2x"></i></a>
+            </div>
+            <p id="copy">congodsted.com was designed by Con Godsted</a> &copy; 2022. All rights reserved.</p>
         </footer>
-        <script src="scripts.js"></script>
+        <script>
+            let height = 591;
+            function openCollapsible(button) {
+                height = 591
+                button.classList.toggle("active");
+                let readmore = button.nextElementSibling;
+                let content = readmore.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                    readmore.innerHTML = `<br>read more...`
+                } else {
+                    readmore.innerHTML = "<br>read less..."
+                    content.style.display = "block";
+                    document.querySelectorAll(".item").forEach(function(element) {
+                        if (element.clientHeight > height ) {
+                            height = element.clientHeight
+                        }
+                })
+                }
+                
+                document.querySelectorAll(".item").forEach(function(element) {
+                    element.style.minHeight = `${height}px`
+                    
+                })
+                
+            };
+
+        </script>
     </body>
 </html>

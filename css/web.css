@@ -1,0 +1,92 @@
+/*
+Copyright 2022 Con Godsted. All rights reserved.
+*/
+/*FONT CSS*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 100,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+a {
+    padding: 0px;
+}
+.false-button {
+    text-decoration: none;
+    margin: 10px;
+}
+header {
+    display:flex;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    border-bottom: #d22d59 5px solid;
+}
+nav { 
+    text-align: center;
+    align-self: flex-end;
+}
+nav a {
+    padding: 20px 0 0px 0;
+}
+body {
+    margin: 0;
+}
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    border-top: black 10px solid;
+    border-bottom: black 10px solid;
+    text-align: center;
+    position: bottom;
+    bottom:0;
+    width: 100%;
+}
+#social a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:link, a:visited, #copy, .item p, #logo  {
+    color: white;
+}
+a:hover, a:active, strong {
+    color: #d22d59;
+} 
+footer a {
+    margin: 10px;
+}
+.item {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin: 0%;
+}
+
+body, footer {
+    background-color: black;
+}
+main {
+    background-color: #18181b;
+}
+.item {
+    background-color: #1f1f1f;
+    border: 5px solid #393939;
+}
+.item:hover {
+    border: 5px solid #d22d59;
+}
+#logo {
+    font-family: 'Bebas Neue';
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
