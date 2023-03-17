@@ -5,7 +5,6 @@
         <meta charset="utf-8">
         <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
         <link rel="stylesheet" href="css/web.css">
-        <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/mobile.css" media="(max-device-width: 670px)">
         <link rel="stylesheet" href="css/desktop.css" media="(min-device-width:671px)">
         <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
@@ -20,71 +19,121 @@
                 <h1 id="logo">CON GODSTED</h1>
             </nav>
         </header>
-        <main class="hidden" id="index">
-            <div class="item wordpress">
-                <img src="images/interalliance.png" alt="Preview of INTERalliance's website">
-                <div class="itemflex">
-                    <h1>INTERalliance</h1>
+        <main id="index" class="hidden">
+            <p style="padding-top: 2em;" class="description">Hi! I'm Con Godsted. I work at <a target="_blank" href="https://www.nku.edu/academics/informatics.html">Northern Kentucky University's College of Informatics</a> as an Operations and Events Assistant, and at the <a target="_blank" href="https://interalliance.org">INTERalliance of Greater Cincinnati</a> as the Internal Systems Admin. I'm vice president of the <a target="_blank" href="https://iot.informatics.plus">Norse IoT club</a> at NKU, where I study Computer Information Technology. In my free time, I build web projects.</p>
+            <h1>INTERalliance Projects</h1>
+            <p class="description">While working as the Internal Systems Admin at <a target="_blank" href="https://interalliance.org">INTERalliance</a>, I've managed and redesigned three sites.</p>
+            <section class="cards">
+                <div class="item wordpress">
+                    <img src="images/interalliance.png" alt="Preview of INTERalliance's website">
+                    <div class="itemflex">
+                        <h1>INTERalliance</h1>
+                    </div>
+                    <p onclick="openCollapsible(this)">Maintained, developed, and redesigned the INTERalliance website across three years.</p>
+                    <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
+                    <div class="drop-div">
+                        <p>Over the years I've managed and maintained the site, making small improvements and content changes as needed.</p>
+                        <p>In 2022, I led a team to completely redesign the site from the ground up, improving elements ignored over the years.</p>
+                        <p>Notice: The INTERalliance site is copyrighted by the INTERalliance of Greater Cincinnati, and I work on the site while employed there.</p>
+                
+                    </div>        
+                    <div class="itemflex">
+                        <span title="I was hired to work on the IA site June 3, 2019, and am still employed." class="false-button">2019-Ongoing</span>
+                        <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
+                    </div>
+                    <div class="itemflex">
+                        <a class="false-button" target="_blank" href="https://interalliance.org">Visit Site</a>
+                        <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://interalliance.org/">Visit Pre-Redesign</a>
+                    </div>
                 </div>
-                <p onclick="openCollapsible(this)">Lead Systems Admin at IA. Maintained, developed, and redesigned the website across three years.</p>
-                <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
-                <div class="drop-div">
-                    <p>Over the years I've managed and maintained the site, making small improvements and content changes as needed.</p>
-                    <p>In 2022, I led a team to completely redesign the site from the ground up, improving elements ignored over the years.</p>
-                    <p>Notice: The INTERalliance site is copyrighted by the INTERalliance of Greater Cincinnati, and I work on the site while employed there.</p>
-            
-                </div>        
-                <div class="itemflex">
-                    <span title="I was hired to work on the IA site June 3, 2019, and am still employed." class="false-button">2019-Ongoing</span>
-                    <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
+                <div class="item wordpress">
+                    <img src="images/techolympics.png" alt="Preview of the website for TechOlympics">
+                    <div class="itemflex">
+                        <h1>TechOlympics</h1> 
+                    </div>
+                    <p onclick="openCollapsible(this)">Maintained and later rebuilt the website for the nation's largest student-run tech conference from scratch.</p>
+                    <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
+                    <div class="drop-div">
+                        <p>Most of my time spent managing the TechOlympics site has been general maintenance.</p>
+                        <p>In 2021, I remade the entire site from scratch in Elementor following INTERalliance's shift from our former WYSIWG software.</p>
+                        <p>TechOlympics is copyrighted by the INTERalliance of Greater Cincinnati, and I work on the site while employed there.</p>
+                    </div>
+                    <div class="itemflex">
+                        <span title="I was hired to work on the TechOlympics site June 3, 2019, and am still employed." class="false-button">2019-Ongoing</span>
+                        <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
+                    </div>
+                    <div class="itemflex">
+                        <a class="false-button" target="_blank" href="https://techolympics.org">Visit Site</a>
+                        <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://techolympics.org">Visit Pre-Redesign</a>
+                    </div>
                 </div>
-                <div class="itemflex">
-                    <a class="false-button" target="_blank" href="https://interalliance.org">Visit Site</a>
-                    <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://interalliance.org/">Visit Pre-Redesign</a>
+                <div class="item wordpress">
+                    <img src="images/carnegie.png" alt="Preview of the website for The Carnegie.">
+                    <div class="itemflex">
+                        <h1>The Carnegie</h1>
+                    </div>
+                    <p onclick="openCollapsible(this)">Rebuilt the website for the local theatre as the sole frontend developer.</p>
+                    <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
+                    <div class="drop-div">
+                        <p>While working at INTERalliance, our IT team was asked to remake the website for fellow Cincinnati non-profit The Carnegie.</p>
+                        <p>The Carnegie site is copyrighted by the The Carnegie, and I worked on the site while employed at the INTERalliance of Greater Cincinnati.</p>
+                    </div>
+                    <div class="itemflex">
+                        <span class="false-button" title="This project started development June 1, 2021, and the redesign went live October 2021.">2021-2022</span>
+                        <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
+                    </div>
+                    <div class="itemflex">
+                        <a class="false-button" target="_blank" href="https://thecarnegie.com">Visit Site</a>
+                        <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://thecarnegie.com">Visit Pre-Redesign</a>
+                    </div>
                 </div>
-            </div>
-            <div class="item wordpress">
-                <img src="images/techolympics.png" alt="Preview of the website for TechOlympics">
-                <div class="itemflex">
-                    <h1>TechOlympics</h1> 
+                
+            </section>
+            <h1>Norse IOT</h1>
+            <p class="description">As Vice President of the <a href="https://iot.informatics.plus">Norse IoT Club</a> at NKU, I work on various projects.</p>
+            <section class="cards">
+                <div class="item js">
+                    <img src="images/cardreader.png" alt="Preview of the Norse IoT Card Reader aapp">
+                    <div class="itemflex">
+                        <h1>Card Reader</h1>
+                    </div>
+                    <p>Designed a web app to interface with a MagStripe card reader to take attendance.</p>
+                    <div class="itemflex">
+                        <span class="false-button" title="This project started development June 1, 2021, and the redesign went live October 2021.">2022-Ongoing</span>
+                        <span class="false-button" title="This project was designed with HTML/CSS and made functional with JavaScript.">JavaScript Web App</span>
+                    </div>
+                    <div class="itemflex">
+                        <a class="false-button" target="_blank" href="https://norse-iot.github.io/Card-Reader/">Visit Site</a>
+                        <a class="false-button" target="_blank" href="https://github.com/Norse-IoT/Card-Reader" title="View or contribute to Card Reader on GitHub">View Source</a>
+                    </div>
                 </div>
-                <p onclick="openCollapsible(this)">Maintained and later rebuilt the website for the nation's largest student-run tech conference from scratch.</p>
-                <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
-                <div class="drop-div">
-                    <p>Most of my time spent managing the TechOlympics site has been general maintenance.</p>
-                    <p>In 2021, I remade the entire site from scratch in Elementor following INTERalliance's shift from our former WYSIWG software.</p>
-                    <p>TechOlympics is copyrighted by the INTERalliance of Greater Cincinnati, and I work on the site while employed there.</p>
+            </section>
+            <h1>Personal Projects</h1>
+            <p class="description">In my free time, I design websites and web apps.</p>
+            <section class="cards">
+                <div class="item js">
+                    <img src="images/tieraway.png" alt="Preview of Tier Away">
+                    <div class="itemflex">
+                        <h1>Tier Away</h1>
+                    </div>
+                    <p onclick="openCollapsible(this)">Tier Away is a simple, open source tier list creation tool. No accounts, no public data, no prep work, no hassle. </p>
+                    <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
+                    <div class="drop-div">
+                        <p>Tier Away was created as a hobbyist project to resolve a seeming lack of clientside tier list makers. Not everything needs to be uploaded to the cloud.</p>
+                        <p>Tier Away was designed by Con Godsted, with help from <a href="https://luketrenaman.com">Luke Trenaman</a>.</p>
+
+                    </div>
+                    <div class="itemflex">
+                        <span title="This project started development July 17, 2022, and is still being actively developed." class="false-button">2022-Ongoing</span>
+                        <span class="false-button" title="This project was designed with HTML/CSS and made functional with JavaScript.">JavaScript Web App</span>
+                    </div>
+                    <div class="itemflex">
+                        <a class="false-button" target="_blank" href="https://TierAway.godsted.com" title="Visit and use Tier Away">Visit Site</a>
+                        <a class="false-button" target="_blank" href="https://github.com/ConGodsted/TierAway" title="View or contribute to Tier Away on GitHub">View Source</a>
+                    </div>
+                    
                 </div>
-                <div class="itemflex">
-                    <span title="I was hired to work on the TechOlympics site June 3, 2019, and am still employed." class="false-button">2019-Ongoing</span>
-                    <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
-                </div>
-                <div class="itemflex">
-                    <a class="false-button" target="_blank" href="https://techolympics.org">Visit Site</a>
-                    <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://techolympics.org">Visit Pre-Redesign</a>
-                </div>
-            </div>
-            <div class="item wordpress">
-                <img src="images/carnegie.png" alt="Preview of the website for The Carnegie.">
-                <div class="itemflex">
-                    <h1>The Carnegie</h1>
-                </div>
-                <p onclick="openCollapsible(this)">Rebuilt the website for the local theatre as the sole frontend developer.</p>
-                <strong onclick="openCollapsible(this.previousElementSibling)">read more...</strong>
-                <div class="drop-div">
-                    <p>While working at INTERalliance, our IT team was asked to remake the website for fellow Cincinnati non-profit The Carnegie.</p>
-                    <p>The Carnegie site is copyrighted by the The Carnegie, and I worked on the site while employed at the INTERalliance of Greater Cincinnati.</p>
-                </div>
-                <div class="itemflex">
-                    <span class="false-button" title="This project started development June 1, 2021, and the redesign went live October 2021.">2021-2022</span>
-                    <span title="Website was designed in Elementor and Wordpress" class="false-button">Wordpress Site</span>
-                </div>
-                <div class="itemflex">
-                    <a class="false-button" target="_blank" href="https://thecarnegie.com">Visit Site</a>
-                    <a class="false-button" target="_blank" href="https://web.archive.org/web/20190117120701/https://thecarnegie.com">Visit Pre-Redesign</a>
-                </div>
-            </div>
-            
+            </section>
         </main>
         <footer>
             <div id="social">

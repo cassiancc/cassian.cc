@@ -16,7 +16,7 @@ nav {
     display: flex;
     flex-direction: column;
 }
-#index {
+.cards {
     display: flex;
     margin-left: auto;
     margin-right: auto;
