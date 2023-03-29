@@ -49,3 +49,15 @@ nav {
 .item h1 {
     font-size: 23px;
 }
+
+.year-box {
+    height: 20%;
+    min-height: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+    margin: 2%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}

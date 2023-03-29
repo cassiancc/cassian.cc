@@ -16,10 +16,30 @@ Copyright 2022 Con Godsted. All rights reserved.
 a {
     padding: 0px;
 }
+a.false-button {
+    border: 1px solid #393939;
+    background: #222222;
+
+
+}
+
 .false-button {
     text-decoration: none;
     margin: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 100%;
+    font-weight: bold;
 }
+
+
+a.false-button:hover {
+    background-color: #2b2b2b;
+    border-color: #d22d59;
+}
+
 header {
     display:flex;
     background-color: black;
@@ -66,6 +86,11 @@ footer a {
     background-size: cover;
     text-align: center;
     margin: 0%;
+    background-color: #1f1f1f;
+    border: 5px solid #393939;
+}
+.item:hover {
+    border: 5px solid #d22d59;
 }
 
 body, footer {
@@ -74,13 +99,8 @@ body, footer {
 main {
     background-color: #18181b;
 }
-.item {
-    background-color: #1f1f1f;
-    border: 5px solid #393939;
-}
-.item:hover {
-    border: 5px solid #d22d59;
-}
+
+
 #logo {
     font-family: 'Bebas Neue';
     font-size: 70px;
@@ -127,20 +147,6 @@ strong {
     justify-content: space-around;
 }
 
-.false-button {
-    text-align: center;
-    background: #222222;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 5px;
-    border: 1px solid #393939;
-    width: 100%;
-    font-weight: bold;
-}
-.false-button:hover {
-    background-color: #2b2b2b;
-    border-color: #393939;
-}
 #index h1 {
     padding-left: 32px;
     padding-top: .5em;
@@ -150,4 +156,12 @@ strong {
 #index .description {
     padding-left: 32px;
     margin: 0;
+}
+
+.year-box {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
 }
