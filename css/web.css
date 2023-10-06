@@ -71,7 +71,7 @@ footer {
     padding-left: 10px;
     padding-right: 10px;
 }
-a:link, a:visited, #copy, .item p, #logo, #index, .false-button, h1, p  {
+a:link, a:visited, #copy, .item p, #logo, #index, .false-button, h1, h2, p  {
     color: white;
 }
 a:hover, a:active, strong {
@@ -124,7 +124,7 @@ strong {
     padding-right: 10px;
     padding-bottom: 10px;
 }
-.item h1 {
+.item h2 {
     font-weight: bold;
     padding-left: 10px;
     padding-right: 10px;
