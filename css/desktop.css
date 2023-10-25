@@ -61,3 +61,8 @@ nav {
     border-radius: 5px;
     padding-bottom: 10px;
 }
+
+#index .description {
+    padding-left: 32px;
+    margin: 0;
+}

@@ -31,11 +31,11 @@ strong {
     font-size: 2.5vh;
     
 }
-.buttons {
-    width: 50%;
+.buttons, .false-button {
+    width: 80%;
 }
 .buttons button {
-    font-size: 2.5vh;
+    font-size: 1em;
 }
 .date {
     margin: 0;
@@ -56,8 +56,18 @@ footer {
     font-size: 300%;
 }
 .item p {
-    font-size: 30px;
+    font-size: 1.5em;
 }
 .item h2 {
-    font-size: 60px;
+    font-size: 2em;
+}
+
+#index .description {
+    width: 90%;
+    margin: auto;
+    font-size: 1.3em;
+}
+
+footer {
+    font-size: large;
 }
