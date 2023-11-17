@@ -71,10 +71,14 @@ footer {
     padding-left: 10px;
     padding-right: 10px;
 }
-a:link, a:visited, #copy, .item p, #logo, #index, .false-button, h1, h2, p  {
+#social a, #copy, .item p, #logo, #index, .false-button, h1, h2, p  {
     color: white;
 }
-a:hover, a:active, strong {
+p a:link, p a:visited {
+    color: #ffcdda
+}
+
+p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong {
     color: #d22d59;
 } 
 footer a {
@@ -88,15 +92,19 @@ footer a {
     margin: 0%;
     background-color: #1f1f1f;
     border: 5px solid #393939;
+    filter: drop-shadow(0px 0px 15px rgba(49, 49, 49, 0.295));
+
 }
-.item:hover {
+.item:hover, .item:focus {
     border: 5px solid #d22d59;
+    filter: drop-shadow(0px 0px 15px #d22d59);
+
 }
 
-body, footer {
+footer {
     background-color: black;
 }
-main {
+main, body {
     background-color: #18181b;
 }
 

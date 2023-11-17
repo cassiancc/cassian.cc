@@ -25,18 +25,19 @@ nav {
     justify-content: center;
 }
 .item {
-    width: 28%;
-    min-width: 400px;
-    max-width: 600px;
-    height: 60%;
-    min-height: 591px;
+    min-width: 300px;
+    max-width: 500px;
+    min-height: 700px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
-    margin: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     border-radius: 5px;
     padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .itemflex, .item p {
     padding-right: 2%;
@@ -48,6 +49,10 @@ nav {
 }
 .item h2 {
     font-size: 23px;
+}
+
+body {
+    font-size: 1.35em;
 }
 
 .year-box {
@@ -63,6 +68,21 @@ nav {
 }
 
 #index .description {
-    padding-left: 32px;
-    margin: 0;
+    margin: 2%;
+}
+
+.two-columns {
+    display: flex;
+    width: 100%;
+}
+.two-columns .description, .two-columns .carousel {
+    width: 50%;
+    margin: 2%;
+}
+
+main {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0
+
 }
