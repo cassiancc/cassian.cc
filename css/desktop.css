@@ -39,6 +39,14 @@ nav {
     margin-left: auto;
     margin-right: auto;
 }
+
+.item img {
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+    object-position: top;
+}
+
 .itemflex, .item p {
     padding-right: 2%;
     padding-left: 2%;

@@ -27,10 +27,18 @@ strong {
     justify-content: center;
 }
 .itemflex {
-    flex-direction: column;
-    font-size: 2.5vh;
+    flex-direction: row;
+    font-size: 2.1vh;
     
 }
+
+.item img {
+    width: 100%;
+    height: 16vh;
+    object-fit: cover;
+    object-position: top;
+}
+
 .buttons, .false-button {
     width: 80%;
 }
@@ -56,10 +64,12 @@ footer {
     font-size: 300%;
 }
 .item p {
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 .item h2 {
     font-size: 2em;
+    margin-bottom: 0;
+    margin-top: 10px;
 }
 
 #index .description {
@@ -70,4 +80,13 @@ footer {
 
 footer {
     font-size: large;
+}
+
+.carousel {
+    max-width: 40vh;
+}
+
+#iot-columns, #mc-columns {
+    display: flex;
+    flex-direction: column-reverse;
 }
