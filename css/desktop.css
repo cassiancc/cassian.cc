@@ -12,6 +12,14 @@ nav {
     height: auto;
     padding: 20px 20px 0px 20px;
 }
+
+#index h1 {
+    padding-left: 32px;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin: 0;
+}
+
 .buttons {
     display: flex;
     flex-direction: column;

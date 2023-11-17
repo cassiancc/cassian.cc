@@ -90,3 +90,7 @@ footer {
     display: flex;
     flex-direction: column-reverse;
 }
+
+p.description {
+    padding-top: 10px;
+}

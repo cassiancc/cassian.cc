@@ -150,13 +150,6 @@ strong {
     justify-content: space-around;
 }
 
-#index h1 {
-    padding-left: 32px;
-    padding-top: .5em;
-    padding-bottom: .5em;
-    margin: 0;
-}
-
 .year-box {
     display: flex;
     margin: auto;
