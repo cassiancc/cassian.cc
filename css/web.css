@@ -20,7 +20,6 @@ a.false-button {
     border: 1px solid #393939;
     background: #222222;
 
-
 }
 
 .false-button {
@@ -68,8 +67,8 @@ footer {
     width: 100%;
 }
 #social a {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 #social a, #copy, .item p, #logo, #index, .false-button, h1, h2, p  {
     color: white;
