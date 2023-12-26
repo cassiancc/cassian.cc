@@ -51,10 +51,16 @@ function peek () {
     peekVal = document.querySelector(".carousel").clientWidth
     let carousel = document.querySelector(".carousel").clientWidth
     console.log("CAROUSEL", carousel)
-    if (carousel > 600) {
+    if (carousel > 1600) {
+        peekVal = peekVal / 3
+
+    }
+    else if (carousel > 1200) {
+        peekVal = peekVal / 4
+
+    }
+    else if (carousel > 600) {
         peekVal = peekVal / 5
-        console.log("small")
-        
 
     }
     else {

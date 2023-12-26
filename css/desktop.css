@@ -20,6 +20,12 @@ nav {
     margin: 0;
 }
 
+#hi {
+    max-width: 1400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .buttons {
     display: flex;
     flex-direction: column;
@@ -83,7 +89,7 @@ body {
     padding-bottom: 10px;
 }
 
-#index .description {
+.description {
     margin: 2%;
 }
 
