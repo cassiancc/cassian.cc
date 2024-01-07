@@ -83,6 +83,11 @@ p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong
 footer a {
     margin: 10px;
 }
+
+.old {
+    color: black;
+}
+
 .item {
     background-repeat: no-repeat;
     background-position: center;
