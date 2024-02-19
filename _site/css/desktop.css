@@ -1,0 +1,110 @@
+/*
+Copyright 2022 Con Godsted. All rights reserved.
+*/
+nav { 
+    text-align: center;
+    align-self: flex-end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#logo img {
+    max-width: 20%;
+    height: auto;
+    padding: 20px 20px 0px 20px;
+}
+
+#index h1 {
+    padding-left: 32px;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin: 0;
+}
+
+#hi {
+    max-width: 1400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+.cards {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.item {
+    min-width: 300px;
+    max-width: 500px;
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item img {
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+    object-position: top;
+}
+
+.itemflex, .item p {
+    padding-right: 2%;
+    padding-left: 2%;
+}
+.item p {
+    text-align: left;
+    padding-left: 3%;
+}
+.item h2 {
+    font-size: 23px;
+}
+
+body {
+    font-size: 1.35em;
+}
+
+.year-box {
+    height: 20%;
+    min-height: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+    margin: 2%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+.description {
+    margin: 2%;
+}
+
+.two-columns {
+    display: flex;
+    width: 100%;
+}
+.two-columns .description, .two-columns .carousel {
+    width: 50%;
+    margin: 2%;
+}
+
+main {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0
+
+}

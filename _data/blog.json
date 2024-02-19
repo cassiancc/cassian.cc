@@ -1,0 +1,279 @@
+[
+    {
+        "name":"Simply Infinite Launch - 2023", 
+        "content":"I just released a Minecraft modpack! It's called Simply Infinite, and its the first ever public modpack for Minecraft 20w14infinite. You can download it on <a target='_blank' href='https://modrinth.com/modpack/simply-infinite'>Modrinth</a>!", 
+        "date":"10/06/2023", 
+        "height": "300px",
+        "gallery": [
+            "https://cdn.modrinth.com/data/osvx9UZj/images/516bc7179660ae8c84fda27494325f89ae428814.png"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Suits That Rock - 2023", 
+        "content":"Another year, another great Suits that Rock. Here's to Suits 2024!", 
+        "date":"09/24/2023", 
+        "gallery": [
+            "content/20230924/0001.webp",
+            "content/20230924/0002.webp",
+            "content/20230924/0003.webp",
+            "content/20230924/0004.webp"
+        ],
+        "height": "350px",
+        "type": "gallery"
+    },
+    {
+        "name":"Alex's Graduation - 2023", 
+        "content":"Congratulations on your graduation Alex! Proud to be your sibling.", 
+        "date":"06/03/2023", 
+        "gallery": [
+            "content/20230603/0001.webp",
+            "content/20230603/0002.webp",
+            "content/20230603/0003.webp"
+        ],
+        "height": "250px",
+        "type": "gallery"
+    },
+    {
+        "name":"TechOlympics 2023: Electrify", 
+        "content":"TechOlympics 2023 was back in person for the first time since 2020, and I was able to help plan it! It was an incredible event and I was so proud of the work our team was able to accomplish.", 
+        "date":"02/18/2023", 
+        "height":"300px",
+        "gallery": [
+            "content/20230218/0001.jpg",
+            "content/20230218/0002.jpg"
+        ],
+        "type": "gallery"
+    },
+    {
+        "name":"Tier Away Launch - 2023", 
+        "content":"I officially launched the first of my personal projects! It's called Tier Away, and it helps you make tier lists without an account. You can try it <a href='https://tieraway.godsted.com'>here!</a>", 
+        "date":"03/17/2023", 
+        "height": "300px",
+        "gallery": [
+            "https://cassian.cc/images/tieraway.png"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Humidity Project - 2023", 
+        "content":"My club, Norse IoT at Northern Kentucky University, was written about in the Northerner for the work our club advisor and I did building humidity sensors to help investigate the water damage done to Griffin Hall. You can read more in <a href='https://www.thenortherner.com/news/2023/02/10/how-norse-iot-club-builds-humidity-sensors-for-griffin-hall/'>The Northerner.</a>", 
+        "date":"02/10/2023", 
+        "height": "400px",
+        "gallery": [
+            "content/20230210/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Map Men - 2022", 
+        "content":"My friends and I made a map for our fantasy campaign!", 
+        "date":"12/17/2022", 
+        "gallery": [
+            "content/20221217/0001.jpg",
+            "content/20221217/0002.jpg"
+        ],
+        "height": "250px",
+        "type": "gallery"
+    },
+    {
+        "name":"Suits That Rock - 2022", 
+        "content":"Amazing show at <a href='https://thecarnegie.com/support/suits-that-rock/'>Suits That Rock 2022</a>. Dad helped to raise $175,000 for The Carnegie's childrens education program (oh, and got to play in front of a sold out crowd of 1,200 people!)<br><br>Suits happens every year, so if you like rock and roll, definitely consider coming by next year.", 
+        "date":"09/30/2022", 
+        "gallery": [
+            "content/20220930/0001.png",
+            "content/20220930/0002.png",
+            "content/20220930/0003.png",
+            "content/20220930/0004.png"
+        ],
+        "height": "250px",
+        "type": "gallery"
+    },
+    {
+        "name":"Styx in Cincinnati - 2021", 
+        "content":"Got to see Styx up close in Cincinnati!", 
+        "date":"11/06/2021", 
+        "gallery": [
+            "content/20211106/0004.jpg",
+            "content/20211106/0001.jpg",
+            "content/20211106/0002.jpg",
+            "content/20211106/0003.jpg"
+            
+        ],
+        "height": "300px",
+        "type": "gallery"
+    },
+    {
+        "name":"Hella Mega/Nowhere Generation Tours - 2021", 
+        "content":"HELLA MEGA TOUR 2021 + NOWHERE GENERATION TOUR 2021<br><br>THE INTERRUPTERS/WEEZER/FALL OUT BOY/GREEN DAY<br><br>THE MENZINGERS/DESCENDENTS/RISE AGAINST<br><br>Probably the best concert experiences I will ever have. Taking the 5 hour drive to Chicago twice in a month was a lot, especially with the start of school, but I wouldn't change it for the world. (Also, I absolutely want Fall Out Boy's flamethrower bass guitar please and thank you)", 
+        "date":"08/30/2021", 
+        "height":"250px",
+        "gallery": [
+            "content/20210830/0001.jpg",
+            "content/20210830/0002.jpg",
+            "content/20210830/0003.jpg",
+            "content/20210830/0004.jpg",
+            "content/20210830/0005.jpg",
+            "content/20210830/0006.jpg",
+            "content/20210830/0007.jpg",
+            "content/20210830/0008.jpg",
+            "content/20210830/0009.jpg",
+            "content/20210830/0010.jpg"
+        ],
+        "type": "gallery"
+    },
+    {
+        "name":"Renaissance Fair - 2021", 
+        "content":"Went to the Renaissance fair with some friends!", 
+        "date":"07/18/2021", 
+        "height":"300px",
+        "gallery": [
+            "content/20210718/0001.png"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Mini Golf Trip - 2021", 
+        "content":"My friends and I are not very good at mini golf.", 
+        "date":"03/13/2021", 
+        "gallery": [
+            "content/20210313/0001.jpg",
+            "content/20210313/0002.jpg",
+            "content/20210313/0003.jpg",
+            "content/20210313/0004.jpg"
+        ],
+        "height":"500px",
+        "type": "gallery"
+    },
+    {
+        "name":"Graduation - 2020", 
+        "content":"\"Let's raise the stakes on the bet we made. Let's decide to be the architects, the masters of our fate.\"<br><br>I graduated this year, and am excited to move on to NKU.", 
+        "date":"05/15/2020", 
+        "height":"500px",
+        "gallery": [
+            "content/20200515/0001.jpg",
+            "content/20200515/0002.jpg",
+            "content/20200515/0003.jpg",
+            "content/20200515/0004.jpg",
+            "content/20200515/0005.jpg"
+        ],
+        "type": "gallery"
+    },
+    {
+        "name":"Bass - 2020", 
+        "content":"Picked up bass guitar to alleviate that quarantine boredom.", 
+        "date":"04/26/2020", 
+        "height":"500px",
+        "gallery": [
+            "content/04262020/0001.jpg",
+            "content/04262020/0002.jpg"
+        ],
+        "type": "gallery"
+    },
+    {
+        "name":"TechOlympics 2020: Activate", 
+        "content":"I attended TechOlympics 2020! This was the first TechOlympics I had the chance to organize, and I loved the opportunity.", 
+        "date":"02/22/2020", 
+        "height":"300px",
+        "gallery": [
+            "content/02222020/0003.jpg",
+            "content/02222020/0004.jpg",
+            "content/02222020/0002.jpg",
+            "content/02222020/0001.jpg"
+        ],
+        "type": "gallery"
+    },
+    {
+        "name":"Halloween - 2019", 
+        "content":"Halloween 2019, it's freezing out here!", 
+        "date":"10/31/2019", 
+        "height":"300px",
+        "gallery": [
+            "content/10312019/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"American Idiot - 2019", 
+        "content":"Got to see the Carnegie's production of American Idiot with Joseph! It was an unforgettable exprience and an amazing time.", 
+        "date":"08/25/2019", 
+        "height":"250px",
+        "gallery": [
+            "content/08252019/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Summer 2019", 
+        "content":"summer 2019", 
+        "date":"08/12/2019", 
+        "height":"250px",
+        "gallery": [
+            "content/08122019/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Escape Room - 2019", 
+        "content":"", 
+        "date":"07/15/2019", 
+        "height":"400px",
+        "gallery": [
+            "content/07152019/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Rise Against - The Ghost Note Symphonies Tour - 2019", 
+        "content":"", 
+        "date":"04/29/2019", 
+        "height":"250px",
+        "gallery": [
+            "content/04292019/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"TechOlympics 2019", 
+        "content":"TechOlympics 2019!", 
+        "date":"02/22/2019", 
+        "height":"250px",
+        "gallery": [
+            "content/02222019/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"Photography - 2018", 
+        "content":"", 
+        "date":"03/08/2018", 
+        "height":"500px",
+        "gallery": [
+            "content/03082018/0001.jpg"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"TechOlympics 2018", 
+        "content":"TechOlympics 2018!", 
+        "date":"02/23/2018", 
+        "height":"250px",
+        "gallery": [
+            "content/02232018/0001.png"
+        ],
+        "type": "image"
+    },
+    {
+        "name":"TechOlympics 2017", 
+        "content":"In 2017, I attended TechOlympics for the first time! It was an incredible experience, and one I'd keep coming back to year after year.", 
+        "date":"02/22/2017", 
+        "height":"400px",
+        "gallery": [
+            "content/02222017/0001.jpg",
+            "content/02222017/0002.jpg",
+            "content/02222017/0003.jpg"
+        ],
+        "type": "gallery"
+    }
+
+    ]

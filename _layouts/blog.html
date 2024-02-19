@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{{page.index}}
+<link rel="stylesheet" href="/css/blog.css">
+<div id="posts">
+    {% for post in site.posts %}
+
+    <div class="post post-{{post.id}}">
+        <h2>{{post.title}}</h2>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div class="img" data-page="0" data-gallerylength="{{posts[x].gallery.length}}"  class="post-image" id="image-${x}"style='height: {{post.height}}; background-image: url(/content/{{ post.date | date: "%Y%m%d" }}/0001.webp);'>
+            <button onclick="cycleGallery('${x}', '-1')" id="button-${x}"><</button>
+            <button onclick="cycleGallery('${x}', '1')" id="button-${x}">></button>
+        </div>
+        <p id="content-${x}">{{post.content}}</p>
+    </div>
+    
+    {% endfor %}
+</div>
+
+{{ content }}
+
+<script src="/js/blog.js">
+</script>

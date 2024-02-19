@@ -1,0 +1,163 @@
+/*
+Copyright 2022 Con Godsted. All rights reserved.
+*/
+/*FONT CSS*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 100,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+a {
+    padding: 0px;
+}
+a.false-button {
+    border: 1px solid #393939;
+    background: #222222;
+
+}
+
+.false-button {
+    text-decoration: none;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 100%;
+    font-weight: bold;
+}
+
+
+a.false-button:hover {
+    background-color: #2b2b2b;
+    border-color: #d22d59;
+}
+
+header {
+    display:flex;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    border-bottom: #d22d59 5px solid;
+}
+nav { 
+    text-align: center;
+    align-self: flex-end;
+}
+nav a {
+    padding: 20px 0 0px 0;
+}
+body {
+    margin: 0;
+}
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    border-top: black 10px solid;
+    border-bottom: black 10px solid;
+    text-align: center;
+    position: bottom;
+    bottom:0;
+    width: 100%;
+}
+#social a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#social a, #copy, .item p, #logo, #index, .false-button, h1, h2, p  {
+    color: white;
+}
+p a:link, p a:visited {
+    color: #ffcdda
+}
+
+p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong {
+    color: #d22d59;
+} 
+footer a {
+    margin: 10px;
+}
+
+.old {
+    color: black;
+}
+
+.item {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin: 0%;
+    background-color: #1f1f1f;
+    border: 5px solid #393939;
+    filter: drop-shadow(0px 0px 15px rgba(49, 49, 49, 0.295));
+
+}
+.item:hover, .item:focus {
+    border: 5px solid #d22d59;
+    filter: drop-shadow(0px 0px 15px #d22d59);
+
+}
+
+footer {
+    background-color: black;
+}
+main, body {
+    background-color: #18181b;
+}
+
+
+#logo {
+    font-family: 'Bebas Neue';
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: normal;
+}
+.drop-div {
+    display: none;
+    overflow: hidden;
+    transition: display 2s;
+}
+.item p {
+    margin-bottom: 0;
+}
+strong {
+    text-align: right;
+    display: block;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.item h2 {
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.item:hover {
+    transition: filter .5s;
+}
+.itemflex {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.year-box {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}

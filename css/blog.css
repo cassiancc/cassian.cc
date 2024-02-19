@@ -1,0 +1,63 @@
+/*
+Copyright 2022 Con Godsted. All rights reserved.
+*/
+/*FONT CSS*/
+
+.post {
+    display: flex;
+    flex-direction: column;
+    width: 28%;
+    min-width: 400px;
+    max-width: 600px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #1f1f1f;
+    border: 5px solid #393939;
+}
+
+.post h2 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+.post-image {
+    width: 100%;
+    object-fit: contain;
+}
+
+button {
+    width: fit-content;
+}
+
+
+#posts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1em;
+}
+
+
+.post span {
+    color: grey;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.post:hover {
+    border: 5px solid #414141;
+}
+
+
+.post .img {
+    background-size: contain;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-position: center;
+
+}

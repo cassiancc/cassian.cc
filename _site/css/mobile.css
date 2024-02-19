@@ -1,0 +1,96 @@
+/*
+Copyright 2022 Con Godsted. All rights reserved.
+*/
+nav { 
+    text-align: center;
+    align-self: flex-end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+strong {
+    text-align: right;
+    display: block;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#logo img {
+    max-width: 20%;
+    height: auto;
+    padding: 20px 20px 0px 20px;
+}
+#index {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.itemflex {
+    flex-direction: row;
+    font-size: 2.1vh;
+    
+}
+
+.item img {
+    width: 100%;
+    height: 16vh;
+    object-fit: cover;
+    object-position: top;
+}
+
+.buttons, .false-button {
+    width: 80%;
+}
+.buttons button {
+    font-size: 1em;
+}
+.date {
+    margin: 0;
+    width: 50%;
+    text-align: center;
+}
+.item {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin: 4%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+footer {
+    font-size: 300%;
+}
+.item p {
+    font-size: 1.25em;
+}
+.item h2 {
+    font-size: 2em;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+#index .description {
+    width: 90%;
+    margin: auto;
+    font-size: 1.3em;
+}
+
+footer {
+    font-size: large;
+}
+
+.carousel {
+    max-width: 40vh;
+}
+
+#iot-columns, #mc-columns {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+p.description {
+    padding-top: 10px;
+}

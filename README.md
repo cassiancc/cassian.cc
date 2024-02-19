@@ -1,5 +1,5 @@
-# congodsted.com
-congodsted.com acts as a personal portfolio page.
+# cassian.cc
+cassian.cc acts as a personal portfolio page, now containing a newly personal blog - powered by Jekyll.
 
 # Libraries
 GlideJS by Jędrzej Chałubek, licensed under the terms of the MIT License: https://glidejs.com
