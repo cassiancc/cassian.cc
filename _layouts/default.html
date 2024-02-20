@@ -18,12 +18,21 @@
     <body>
         <header>
             <nav>
-                <h1 id="logo">
-                    {{page.header | default: "Cassian's Log"}}
-                </h1>
-                {% if page.header == null -%}
-                    <strong>{{page.title}}</strong>
-                {% endif -%}
+                <div>
+                    <h1 id="logo">
+                        {{page.header | default: "Cassian's Log"}}
+                    </h1>
+                    {% if page.header == null -%}
+                        <strong>{{page.title}}</strong>
+                    {% endif -%}
+                </div>
+                <div id="sitemap">
+                    <a href="/">Portfolio</a>
+                    <a href="/blog">Blog</a>
+                    <a href="mailto:cassian@godsted.com">Contact</a>
+
+
+                </div>
             </nav>
         </header>
         {{content}}

@@ -17,6 +17,7 @@ Copyright 2022 Con Godsted. All rights reserved.
     --buttonbg: #222222;
     --border: #393939;
     --ca-red: #d22d59;
+    --body-link: #ffcdda;
 }
 
 * {
@@ -63,10 +64,17 @@ header strong {
 nav { 
     text-align: center;
     align-self: flex-end;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
 }
 nav a {
     padding: 20px 0 0px 0;
 }
+
 body {
     margin: 0;
 }
@@ -84,14 +92,14 @@ footer {
     padding-left: 5px;
     padding-right: 5px;
 }
-#social a, #copy, .item p, #logo, #index, .false-button, h1, h2, p  {
+#social a, #copy, .item p, #index, .false-button, h1, h2, p  {
     color: var(--white);
 }
 p a:link, p a:visited {
-    color: #ffcdda
+    color: var(--body-link)
 }
 
-p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong, .read-more {
+p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong, .read-more, #sitemap a:hover {
     color: var(--ca-red);
 } 
 footer a {
@@ -152,7 +160,21 @@ main, body {
     margin-right: auto;
     text-align: center;
     font-weight: normal;
+    color: var(--white);
 }
+
+
+#sitemap a {
+    color: var(--white);
+    font-size: 35px;
+    text-decoration: none;
+    padding: .5em;
+    font-family: 'Bebas Neue';
+    border-radius: 10px;
+
+
+}
+
 .drop-div {
     display: none;
     overflow: hidden;
