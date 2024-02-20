@@ -1,1 +1,349 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-14T16:43:27-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">INTERalliance of Greater Cincinnati</title><subtitle>The INTERalliance of Greater Cincinnati is a non-profit organization dedicated to helping students explore the rich IT industry around Cincinnati. </subtitle></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassian Godsted</title>
+    <description>Cassian Godsted - Personal portfolio and project site</description>
+    <link>https://cassian.cc/</link>
+    <atom:link href="https://cassian.cc/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Feb 2024 16:00:36 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2024 16:00:36 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+     
+      <item>
+        <title>TechOlympics 2024: Empower</title>
+        <description>&lt;p&gt;Over the weekend, I got the chance to help organize TechOlympics 2024, and it has been quite possibly my favourite TechOlympics yet. &lt;!--more--&gt;
+I know I’ll have more to say about it later on, but from beginning to end it has been an adventure. This year’s Leadership Council did an amazing job putting the event together, and I was grateful for the opportunity to step up and work through everything from our registration process to our laptop deployment to, as a first for me, speaking at TechOlympics. Alongside members of Norse IoT, I ran a workshop that allowed students to build their own Internet of Things powered smart sensors. I was amazed by the passion that these students had to learn, and inspired to keep working to make next years event even more incredible.&lt;/p&gt;
+
+&lt;p&gt;I just want to thank again everyone who made this event possible, including again our amazing Leadership Council who made this student run event a reality, our Central Office team and INTERalliance board, my co-presenters Riley Weber-Horowitz and Christian Lane, and our sponsors as well as our host Procter and Gamble. Here’s to 2025, everyone - it could not be in better hands.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2024 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2024/02/19/techolympics-empower.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2024/02/19/techolympics-empower.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Simply Infinite Launch</title>
+        <description>&lt;p&gt;I just released a Minecraft modpack! It’s called Simply Infinite, and its the first ever public modpack for Minecraft 20w14infinite. You can download it on &lt;a target=&quot;_blank&quot; href=&quot;https://modrinth.com/modpack/simply-infinite&quot;&gt;Modrinth&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Oct 2023 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2023/10/06/simply-infinite-launch.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2023/10/06/simply-infinite-launch.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Suits that Rock 2023</title>
+        <description>&lt;p&gt;Another year, another great Suits that Rock. Here’s to Suits 2024!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Sep 2023 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2023/09/24/suits.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2023/09/24/suits.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Alex&apos;s Graduation</title>
+        <description>&lt;p&gt;Congratulations on your graduation Alex! Proud to be your sibling.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jun 2023 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2023/06/03/alex-graduation.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2023/06/03/alex-graduation.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Tier Away Launch!</title>
+        <description>&lt;p&gt;I officially launched the first of my personal projects! It’s called Tier Away, and it helps you make tier lists without an account. You can try it &lt;a href=&quot;https://tieraway.godsted.com&quot;&gt;here!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Mar 2023 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2023/03/17/tieraway-launch.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2023/03/17/tieraway-launch.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>TechOlympics 2023: Electrify</title>
+        <description>&lt;p&gt;TechOlympics 2023 was back in person for the first time since 2020, and I was able to help plan it! It was an incredible event and I was so proud of the work our team was able to accomplish.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Feb 2023 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2023/02/18/techolympics-electrify.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2023/02/18/techolympics-electrify.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Humidity Project</title>
+        <description>&lt;p&gt;My club, Norse IoT at Northern Kentucky University, was written about in the Northerner for the work our club advisor and I did building humidity sensors to help investigate the water damage done to Griffin Hall. You can read more in &lt;a href=&quot;https://www.thenortherner.com/news/2023/02/10/how-norse-iot-club-builds-humidity-sensors-for-griffin-hall/&quot;&gt;The Northerner.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Feb 2023 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2023/02/10/humidity-project.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2023/02/10/humidity-project.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Map Men</title>
+        <description>&lt;p&gt;My friends and I made a map for our fantasy campaign!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2022/12/17/map-men.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2022/12/17/map-men.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Suits that Rock 2022</title>
+        <description>&lt;p&gt;Amazing show at &lt;a href=&quot;https://thecarnegie.com/support/suits-that-rock/&quot;&gt;Suits That Rock 2022&lt;/a&gt;. Dad helped to raise $175,000 for The Carnegie’s childrens education program (oh, and got to play in front of a sold out crowd of 1,200 people!)&lt;br /&gt;&lt;br /&gt;Suits happens every year, so if you like rock and roll, definitely consider coming by next year.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Sep 2022 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2022/09/30/suits.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2022/09/30/suits.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Styx in Cincinnati</title>
+        <description>&lt;p&gt;Got to see Styx up close in Cincinnati!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Nov 2021 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2021/11/06/styx-cincinnati.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2021/11/06/styx-cincinnati.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Hella Mega/Nowhere Generation Tours</title>
+        <description>&lt;p&gt;HELLA MEGA TOUR 2021 + NOWHERE GENERATION TOUR 2021&lt;/p&gt;
+
+&lt;p&gt;THE INTERRUPTERS/WEEZER/FALL OUT BOY/GREEN DAY&lt;/p&gt;
+
+&lt;p&gt;THE MENZINGERS/DESCENDENTS/RISE AGAINST&lt;/p&gt;
+
+&lt;p&gt;Probably the best concert experiences I will ever have. Taking the 5 hour drive to Chicago twice in a month was a lot, especially with the start of school, but I wouldn’t change it for the world.&lt;!--more--&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Aug 2021 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2021/08/30/hella-mega-nowhere.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2021/08/30/hella-mega-nowhere.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Renaissance Fair</title>
+        <description>&lt;p&gt;Went to the Renaissance fair with some friends!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jul 2021 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2021/07/18/renfair.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2021/07/18/renfair.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Mini Golf</title>
+        <description>&lt;p&gt;My friends and I are not very good at mini golf.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Mar 2021 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2021/03/13/minigolf.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2021/03/13/minigolf.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Graduation</title>
+        <description>&lt;p&gt;“Let’s raise the stakes on the bet we made. Let’s decide to be the architects, the masters of our fate.”&lt;/p&gt;
+
+&lt;p&gt;I graduated this year, and am excited to move on to NKU.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 May 2020 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2020/05/15/graduation.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2020/05/15/graduation.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Bass - 2020</title>
+        <description>&lt;p&gt;Picked up bass guitar to alleviate that quarantine boredom.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Apr 2020 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2020/04/26/bass.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2020/04/26/bass.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>TechOlympics 2020: Activate</title>
+        <description>&lt;p&gt;I attended TechOlympics 2020! This was the first TechOlympics I had the chance to organize, and I loved the opportunity.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Feb 2020 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2020/02/22/techolympics-activate.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2020/02/22/techolympics-activate.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Halloween 2019</title>
+        <description>&lt;p&gt;Halloween 2019, it’s freezing out here!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2019/10/31/halloween.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2019/10/31/halloween.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>American Idiot at the Carnegie</title>
+        <description>&lt;p&gt;Got to see the Carnegie’s production of American Idiot with Joseph! It was an unforgettable exprience and an amazing time.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Aug 2019 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2019/08/25/carnegie.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2019/08/25/carnegie.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Summer 2019</title>
+        <description>&lt;p&gt;summer 2019&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Aug 2019 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2019/08/12/summer.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2019/08/12/summer.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Escape Room - 2019</title>
+        <description>&lt;p&gt;Celebrated my 17th birthday at an Escape Room with my friends.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2019/07/15/escape-room.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2019/07/15/escape-room.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Rise Against - The Ghost Note Symphonies Tour - 2019</title>
+        <description>
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 -0400</pubDate>
+        <link>https://cassian.cc/2019/04/29/rise.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2019/04/29/rise.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>TechOlympics 2019: Level Up</title>
+        <description>
+</description>
+        <pubDate>Fri, 22 Feb 2019 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2019/02/22/techolympics-level-up.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2019/02/22/techolympics-level-up.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>Photography</title>
+        <description>
+</description>
+        <pubDate>Thu, 08 Mar 2018 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2018/03/08/photography.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2018/03/08/photography.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>TechOlympics 2018: Imagine</title>
+        <description>
+</description>
+        <pubDate>Fri, 23 Feb 2018 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2018/02/23/techolympics-imagine.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2018/02/23/techolympics-imagine.html</guid>
+        
+        
+      </item>
+      
+    
+     
+      <item>
+        <title>TechOlympics 2017: Amplify</title>
+        <description>&lt;p&gt;In 2017, I attended TechOlympics for the first time! It was an incredible experience, and one I’d keep coming back to year after year.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Feb 2017 00:00:00 -0500</pubDate>
+        <link>https://cassian.cc/2017/02/22/techolympics-amplify.html</link>
+        <guid isPermaLink="true">https://cassian.cc/2017/02/22/techolympics-amplify.html</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
