@@ -1,5 +1,5 @@
-let height = 591;
-let peekVal = document.querySelector(".item").clientWidth
+let height = 591, peekVal;
+const page = document.location.pathname
 
 function openCollapsible(button) {
     height = 591
@@ -45,7 +45,6 @@ var iotGlide = new Glide('#iot-glide', {
     before: peekVal,
     after: peekVal
 }})
-peek()
 
 function peek () {
     peekVal = document.querySelector(".carousel").clientWidth
@@ -84,7 +83,12 @@ function peek () {
 }
 
 
-iaGlide.mount()
-iotGlide.mount()
-peek()
-window.addEventListener("resize", peek);
+if (page == "/") {
+    peek()
+    peekVal = document.querySelector(".item").clientWidth
+    iaGlide.mount()
+    iotGlide.mount()
+    peek()
+    window.addEventListener("resize", peek);
+
+}
