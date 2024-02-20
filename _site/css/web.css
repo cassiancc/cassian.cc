@@ -46,6 +46,15 @@ header {
     justify-content: center;
     border-bottom: #d22d59 5px solid;
 }
+
+header strong {
+    color: var(--white)
+}
+
+:root {
+    --white: #fff
+}
+
 nav { 
     text-align: center;
     align-self: flex-end;
@@ -131,7 +140,8 @@ main, body {
 .item p {
     margin-bottom: 0;
 }
-strong, .read-more {
+
+.read-more {
     text-align: right;
     display: block;
     padding-right: 10px;

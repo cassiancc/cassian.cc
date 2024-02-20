@@ -18,7 +18,16 @@
     <body>
         <header>
             <nav>
-                <h1 id="logo">{% if page.header != null %}{{page.header}}{% endif%}{% if page.header == null %}{{page.title}}{% endif%}</h1>
+                <h1 id="logo">
+                    {% if page.header != null -%}
+                        {{page.header}}
+                    {% endif -%}
+                    {% if page.header == null -%}
+                    Cassian's Log
+                {% endif -%}</h1>
+                {% if page.header == null -%}
+                    <strong>{{page.title}}</strong>
+                {% endif -%}
             </nav>
         </header>
         {{content}}
