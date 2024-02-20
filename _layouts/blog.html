@@ -13,7 +13,7 @@ layout: default
             <button onclick="cycleGallery('${x}', '-1')" id="button-${x}"><</button>
             <button onclick="cycleGallery('${x}', '1')" id="button-${x}">></button>
         </div>
-        <p id="content-${x}">{{post.content}}</p>
+        <p id="content-${x}">{{post.excerpt}}</p>
     </div>
     
     {% endfor %}
