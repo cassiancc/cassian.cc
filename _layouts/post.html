@@ -3,5 +3,17 @@ layout: default
 ---
 
 <main>
+    <section id="gallery">
+        <div class="glide post page">
+            <div class="glide__track" data-glide-el="track">
+                {% assign range = (1..page.length) -%}
+              <ul class="glide__slides">
+                {% for i in range -%}
+                <li class="glide__slide"><img class="page-img" style="height: {{page.height}};" src='/content/{{ page.date | date: "%Y%m%d" }}/00{% if i < 10 -%}0{%endif -%}{{i}}.webp' alt=""></li>
+                {% endfor -%}
+              </ul>
+            </div>
+          </div>
+        </section>
 {{ content }}
 </main>
