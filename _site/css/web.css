@@ -121,7 +121,7 @@ footer a {
 
 }
 
-.item, .post {
+.item, .post:not(.page) {
     border: 5px solid #393939;
 
 }
@@ -173,6 +173,15 @@ main, body {
     border-radius: 10px;
 
 
+}
+
+main#post {
+    display: flex;
+}
+
+main#post section {
+    margin-right: 1em;
+    margin-left: 1em;
 }
 
 .drop-div {
