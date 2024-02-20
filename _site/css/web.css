@@ -77,7 +77,7 @@ p a:link, p a:visited {
     color: #ffcdda
 }
 
-p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong {
+p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong, .read-more {
     color: #d22d59;
 } 
 footer a {
@@ -131,11 +131,12 @@ main, body {
 .item p {
     margin-bottom: 0;
 }
-strong {
+strong, .read-more {
     text-align: right;
     display: block;
     padding-right: 10px;
     padding-bottom: 10px;
+    text-decoration: none;
 }
 .item h2 {
     font-weight: bold;
