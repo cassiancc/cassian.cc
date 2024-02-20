@@ -4,5 +4,5 @@ title:  "TechOlympics 2019: Level Up"
 yr: 2023
 type: "image"
 height: "300px"
-length: 2
+length: 1
 ---
