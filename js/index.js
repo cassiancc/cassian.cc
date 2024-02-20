@@ -49,7 +49,6 @@ var iotGlide = new Glide('#iot-glide', {
 function peek () {
     peekVal = document.querySelector(".carousel").clientWidth
     let carousel = document.querySelector(".carousel").clientWidth
-    console.log("CAROUSEL", carousel)
     if (carousel > 1600) {
         peekVal = peekVal / 3
 
