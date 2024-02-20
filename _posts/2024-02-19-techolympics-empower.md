@@ -2,7 +2,8 @@
 layout: post
 title:  "TechOlympics 2024: Empower"
 yr: 2024
-type: "image"
+type: "gallery"
+length: 2
 height: "300px"
 ---
 

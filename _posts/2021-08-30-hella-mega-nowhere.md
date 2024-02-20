@@ -4,6 +4,7 @@ title:  "Hella Mega/Nowhere Generation Tours"
 yr: 2021
 type: "gallery"
 height: "300px"
+length: 10
 ---
 
 HELLA MEGA TOUR 2021 + NOWHERE GENERATION TOUR 2021

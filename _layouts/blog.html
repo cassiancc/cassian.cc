@@ -5,22 +5,23 @@ layout: default
 <link rel="stylesheet" href="/css/blog.css">
 <div id="posts">
     {% for post in site.posts %}
-
-    <div class="post post-{{post.id}}">
+    <div class="glide post">
         <h2>{{post.title}}</h2>
         <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        <div class="img" data-page="0" data-gallerylength="{{posts[x].gallery.length}}"  class="post-image" id="image-${x}"style='height: {{post.height}}; background-image: url(/content/{{ post.date | date: "%Y%m%d" }}/0001.webp);'>
-            <button onclick="cycleGallery('${x}', '-1')" id="button-${x}"><</button>
-            <button onclick="cycleGallery('${x}', '1')" id="button-${x}">></button>
+
+        <div class="glide__track" data-glide-el="track">
+            {% assign range = (1..post.length) %}
+          <ul class="glide__slides">
+            {% for i in range %}
+            <li class="glide__slide"><img class="post-img" style="height: {{post.height}};" src='/content/{{ post.date | date: "%Y%m%d" }}/000{{i}}.webp' alt=""></li>
+            {% endfor %}
+          </ul>
         </div>
-        <p id="content-${x}">{{post.excerpt}}</p>
+        <div>{{post.excerpt}}</div>
         <a class="read-more" href="{{post.url}}">read more...</a>
-    </div>
+      </div>
     
     {% endfor %}
 </div>
 
 {{ content }}
-
-<script src="/js/blog.js">
-</script>
