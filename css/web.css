@@ -10,6 +10,15 @@ Copyright 2022 Con Godsted. All rights reserved.
         'GRAD' 0,
         'opsz' 48
 }
+
+:root {
+    --white: #fff;
+    --black: #000;
+    --buttonbg: #222222;
+    --border: #393939;
+    --ca-red: #d22d59;
+}
+
 * {
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -17,8 +26,8 @@ a {
     padding: 0px;
 }
 a.false-button {
-    border: 1px solid #393939;
-    background: #222222;
+    border: 1px solid var(--border);
+    background: var(--buttonbg);
 
 }
 
@@ -36,23 +45,19 @@ a.false-button {
 
 a.false-button:hover {
     background-color: #2b2b2b;
-    border-color: #d22d59;
+    border-color: var(--ca-red);
 }
 
 header {
     display:flex;
-    background-color: black;
+    background-color: var(--black);
     align-items: center;
     justify-content: center;
-    border-bottom: #d22d59 5px solid;
+    border-bottom: var(--ca-red) 5px solid;
 }
 
 header strong {
     color: var(--white)
-}
-
-:root {
-    --white: #fff
 }
 
 nav { 
@@ -68,8 +73,8 @@ body {
 footer {
     margin-left: auto;
     margin-right: auto;
-    border-top: black 10px solid;
-    border-bottom: black 10px solid;
+    border-top: var(--black) 10px solid;
+    border-bottom: var(--black) 10px solid;
     text-align: center;
     position: bottom;
     bottom:0;
@@ -80,14 +85,14 @@ footer {
     padding-right: 5px;
 }
 #social a, #copy, .item p, #logo, #index, .false-button, h1, h2, p  {
-    color: white;
+    color: var(--white);
 }
 p a:link, p a:visited {
     color: #ffcdda
 }
 
 p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong, .read-more {
-    color: #d22d59;
+    color: var(--ca-red);
 } 
 footer a {
     margin: 10px;
@@ -104,13 +109,18 @@ footer a {
     text-align: center;
     margin: 0%;
     background-color: #1f1f1f;
-    border: 5px solid #393939;
     filter: drop-shadow(0px 0px 15px rgba(49, 49, 49, 0.295));
 
 }
-.item:hover, .item:focus {
-    border: 5px solid #d22d59;
-    filter: drop-shadow(0px 0px 15px #d22d59);
+
+.item, .post {
+    border: 5px solid #393939;
+
+}
+
+.item:hover, .item:focus, .post:hover {
+    border: 5px solid var(--ca-red);
+    filter: drop-shadow(0px 0px 15px var(--ca-red));
 
 }
 
@@ -155,7 +165,7 @@ main, body {
     padding-right: 10px;
 }
 
-.item:hover {
+.item:hover, .post:hover {
     transition: filter .5s;
 }
 .itemflex {

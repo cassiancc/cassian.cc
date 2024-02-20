@@ -46,10 +46,6 @@ button {
     margin-bottom: 1em;
 }
 
-.post:hover {
-    border: 5px solid #414141;
-}
-
 
 .post .img {
     background-size: contain;
