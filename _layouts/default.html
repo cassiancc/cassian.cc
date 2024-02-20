@@ -36,7 +36,11 @@
         <script src="/js/index.js"></script>
         {% if page.layout != "home" %}
         <script>
-            new Glide('.glide.post').mount()
+            posts = document.querySelectorAll('.glide.post') 
+            
+            posts.forEach(function(element) {
+                new Glide(element).mount()
+            })
 
         </script>
         {% endif %}

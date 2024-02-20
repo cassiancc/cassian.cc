@@ -4,7 +4,7 @@ title:  "TechOlympics 2017: Amplify"
 yr: 2017
 type: "gallery"
 height: "400px"
-length: 10
+length: 3
 
 ---
 

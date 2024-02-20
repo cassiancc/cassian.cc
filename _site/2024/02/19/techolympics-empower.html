@@ -42,7 +42,11 @@ I know I’ll have more to say about it later on, but from beginning to end it h
         <script src="/js/index.js"></script>
         
         <script>
-            new Glide('.glide.post').mount()
+            posts = document.querySelectorAll('.glide.post') 
+            
+            posts.forEach(function(element) {
+                new Glide(element).mount()
+            })
 
         </script>
         

@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-{{page.index}}
+
 <link rel="stylesheet" href="/css/blog.css">
 <div id="posts">
     {% for post in site.posts %}
-    <div class="glide post">
+    <div class="glide post post-{{forloop.index}}">
         <h2>{{post.title}}</h2>
         <span>{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -18,9 +18,8 @@ layout: default
           </ul>
         </div>
         <div>{{post.excerpt}}</div>
-        <a class="read-more" href="{{post.url}}">read more...</a>
+        <a class="read-more" href="{{post.url}}">view post...</a>
       </div>
-    
     {% endfor %}
 </div>
 

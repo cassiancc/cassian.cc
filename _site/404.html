@@ -61,7 +61,11 @@ strong {
         <script src="/js/index.js"></script>
         
         <script>
-            new Glide('.glide.post').mount()
+            posts = document.querySelectorAll('.glide.post') 
+            
+            posts.forEach(function(element) {
+                new Glide(element).mount()
+            })
 
         </script>
         
