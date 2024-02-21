@@ -106,3 +106,7 @@ nav {
 #sitemap a {
     font-size: 25px;
 }
+
+.two-columns {
+    width: 100%;
+}
