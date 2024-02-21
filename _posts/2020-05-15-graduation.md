@@ -3,7 +3,7 @@ layout: post
 title:  "Graduation"
 yr: 2020
 type: "gallery"
-height: "300px"
+height: "400px"
 length: 6
 ---
 

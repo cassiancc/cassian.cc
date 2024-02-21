@@ -6,9 +6,6 @@ Copyright 2024 Cassian Godsted. All rights reserved.
 .post {
     display: flex;
     flex-direction: column;
-    width: 28%;
-    min-width: 400px;
-    max-width: 600px;
     border-radius: 5px;
     margin-bottom: 10px;
     padding: 5px;

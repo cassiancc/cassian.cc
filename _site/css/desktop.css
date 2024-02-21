@@ -43,9 +43,16 @@ nav {
     align-items: center;
     justify-content: center;
 }
+
+.post {
+    min-width: 300px;
+    max-width: 400px;
+    min-height: 550px;
+}
+
 .item {
     min-width: 300px;
-    max-width: 500px;
+    max-width: 550px;
     min-height: 700px;
     background-repeat: no-repeat;
     background-position: center;
