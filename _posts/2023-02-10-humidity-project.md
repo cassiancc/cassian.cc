@@ -3,7 +3,7 @@ layout: post
 title:  "Humidity Project"
 yr: 2023
 type: "gallery"
-height: "400px"
+height: "300px"
 length: 1
 ---
 
