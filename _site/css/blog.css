@@ -31,9 +31,11 @@ button {
 
 #posts {
     display: flex;
-    flex-direction: column;
+    margin: auto;
+    flex-wrap: wrap;
     align-items: center;
     padding-top: 1em;
+    justify-content: space-evenly;
 }
 
 
