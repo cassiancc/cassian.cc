@@ -201,7 +201,7 @@ main#post section {
     text-decoration: none;
     cursor: pointer;
 }
-.item h2 {
+.item h3 {
     font-weight: bold;
     padding-left: 10px;
     padding-right: 10px;
