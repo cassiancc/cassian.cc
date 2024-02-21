@@ -18,6 +18,11 @@ strong {
     height: auto;
     padding: 20px 20px 0px 20px;
 }
+
+#logo {
+    font-size: 7vh;
+}
+
 #index {
     display: flex;
     margin-left: auto;

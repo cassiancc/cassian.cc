@@ -13,6 +13,10 @@ nav {
     padding: 20px 20px 0px 20px;
 }
 
+#logo {
+    font-size: 70px;
+}
+
 #index h2 {
     padding-left: 32px;
     padding-top: .5em;
