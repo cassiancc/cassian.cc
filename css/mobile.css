@@ -94,3 +94,10 @@ footer {
 p.description {
     padding-top: 10px;
 }
+
+nav {
+    flex-direction: column;
+}
+#sitemap a {
+    font-size: 25px;
+}

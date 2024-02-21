@@ -110,3 +110,12 @@ main {
     min-height: 75vh;
 
 }
+
+#sitemap a {
+    font-size: 35px;
+}
+
+nav { 
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+}

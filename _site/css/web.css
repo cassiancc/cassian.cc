@@ -68,8 +68,6 @@ nav {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    margin-left: 3.5em;
-    margin-right: 3.5em;
 }
 nav a {
     padding: 20px 0 0px 0;
@@ -166,13 +164,10 @@ main, body {
 
 #sitemap a {
     color: var(--white);
-    font-size: 35px;
     text-decoration: none;
     padding: .5em;
     font-family: 'Bebas Neue';
     border-radius: 10px;
-
-
 }
 
 main#post {
