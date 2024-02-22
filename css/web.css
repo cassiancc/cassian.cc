@@ -97,9 +97,11 @@ p a:link, p a:visited {
     color: var(--body-link)
 }
 
-p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, strong, .read-more, #sitemap a:hover {
+p a:hover, p a:focus, a:hover, #social a:hover, #social a:focus, a:focus, #sitemap a:hover {
     color: var(--ca-red);
 } 
+
+
 footer a {
     margin: 10px;
 }
@@ -194,6 +196,7 @@ main#post section {
     padding-bottom: 10px;
     text-decoration: none;
     cursor: pointer;
+    color: var(--body-link);
 }
 .item h3 {
     font-weight: bold;
