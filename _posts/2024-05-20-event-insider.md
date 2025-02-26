@@ -4,7 +4,7 @@ title:  "Event Insider"
 yr: 2024
 type: "image"
 length: 1
-height: "300px"
+height: "200px"
 ---
 
 Last week, I had the great opportunity to speak in a panel discussion with other event planning professionals. 

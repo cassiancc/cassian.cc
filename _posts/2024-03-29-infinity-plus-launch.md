@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Infinity Plus Launch"
-yr: 2023
+title:  "Infinity Plus"
+yr: 2024
 type: "gallery"
 length: 3
 height: "300px"

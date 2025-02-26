@@ -19,3 +19,13 @@ layout: default
         {{ content }}
       </section>
 </main>
+
+<script>
+
+   document.querySelectorAll("#body a").forEach(function(link) {
+    if (link.origin.includes("https")) {
+      link.target = "_blank"
+    }
+  })
+
+</script>

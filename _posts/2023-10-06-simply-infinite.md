@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Simply Infinite Launch"
+title:  "Simply Infinite"
 yr: 2023
 type: "image"
-length: 1
+length: 3
 height: "300px"
 ---
 
