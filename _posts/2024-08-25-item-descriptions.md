@@ -19,7 +19,7 @@ Item Descriptions also comes with built in compatibility with other informationa
 
 <hr>
 
-This mod is available for Minecraft: Java Edition
+This mod is available for Minecraft: Java Edition 1.19 and above.
 
 <https://modrinth.com/mod/item-descriptions>
 

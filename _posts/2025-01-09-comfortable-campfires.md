@@ -15,6 +15,8 @@ Lit campfires now give nearby players Regeneration or Farmer's Delight's Comfort
 
 This mod's premise was inspired by the Campfire Heal script present in the [Raspberry Flavoured](https://www.curseforge.com/minecraft/modpacks/raspberry-flavoured) modpack, but since that script doesn't work on servers, I made my own serverside mod (that also now works on Fabric).
 
+<hr>
+
 This mod is available for Minecraft: Java Edition 1.19.2, 1.20.1, and 1.21.1.
 
 <https://modrinth.com/mod/comfortable-campfires>

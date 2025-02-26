@@ -18,6 +18,8 @@ This port also adds a config option for Christmas Every Day, enabling Christmas 
 
 This mod is client-side only, and not required on servers. It is purely visual and does not change any behavior.
 
+<hr>
+
 This mod is available for Minecraft: Java Edition 1.21 and above.
 
 <https://modrinth.com/mod/ender-christmas+>

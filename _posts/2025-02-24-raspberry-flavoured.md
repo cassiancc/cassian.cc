@@ -18,6 +18,8 @@ The core mod is also available separately for anyone running a modpack with simi
 
 This mod and modpack are available for Minecraft: Java Edition 1.19.2.
 
+<hr>
+
 <https://www.curseforge.com/minecraft/modpacks/raspberry-flavoured>
 
 <https://modrinth.com/mod/raspberry-core>
