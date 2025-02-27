@@ -115,28 +115,28 @@ The team arrives bright and early at 7am to set up registration and coordinate w
 
 At 9am, the event begins with the TechOlympics Kickoff! All students and a majority of staff are in the auditorium, with the registration tables remaining open for late comers and volunteers. This is also when speakers begin to arrive, with our team directing them to their sessions. Our IT team is also moving from room to room double checking laptops and projectors.
 
-<img width="49%" loading="lazy" src="/content/20240222/stage.avif" alt="">
+<img width="49%" loading="lazy" src="/content/20240222/stage.avif" alt="A photo of students watching a student volunteer onstage giving a few announcements." title="A photo of students watching a student volunteer onstage giving a few announcements.">
 
 
 Once the kickoff presentation finishes, students are free to attend to their first breakout of the day. As mentioned previously, 1-2 members of Leadership Council are supervising (and attending) each session. The IT Team is still moving from room to room, monitoring for technical issues.
 
 As for me, I was managing the Wiki Races competition this year, which was a challenge for me as someone who really wasn't used to public speaking. It should have been fine though - my role was really just to be a moderator. Unfortunately, issues with P&G's network slowed the competition down, and as the sole presenter, I took some of the blame there. It was alright though, no year is complete without a few lessons to learn, and the reviews for the session were still fairly positive - I just had things to work on for next year.
 
-<img width="39%" loading="lazy" src="/content/20240222/wiki-races.avif" alt="">
+<img width="39%" loading="lazy" src="/content/20240222/wiki-races.avif" alt="A photo of students participating in Wiki Races." title="A photo of students participating in Wiki Races.">
 
 Once the first breakout concludes, attendees are directed to either IT&U or Lunch. Our staff is around to direct traffic, and try and keep it as even as possible. After the first session of IT&U Lunch ends, anyone who didn't eat Lunch heads to Lunch and anyone who didn't participate in IT&U attends IT&U. This split lunch system was new for this year, as P&G's cafeteria couldn't quite accomodate the entirety of TechOlympics at once, and was definitely a logistical challenge, even if it all worked out on the day.
 
-<img width="39%" loading="lazy" src="/content/20240222/it-u.avif" alt="">
+<img width="45%" loading="lazy" src="/content/20240222/it-u.avif" alt="A photo of a group of students sitting at a table talking with a corporate volunteer." title="A photo of a group of students sitting at a table talking with a corporate volunteer.">
 
 After that, students move on to the next three rounds of Breakouts, Competitions, and Workshops. I'd call this the calmest part of the day, as most sessions are ready to go, and technical issues aren't as common now that we've gotten through the start of the day.
 
 I was also presenting at the end of the day, though. I had been working with my club, NKU's [Norse IoT](https://norseiot.club), on a workshop presentation focused on coding for ESP-32 microcontrollers. Students would enter with no experience, and ideally leave knowing a little more about IoT. That one went smoothly, though there's not as many photos of it as I'd like.
 
-<img width="49%" loading="lazy" src="/content/20240222/0002.avif" alt="">
+<img width="49%" loading="lazy" src="/content/20240222/0002.avif" alt="A photo of a mostly empty breakout room. A few students are chatting with the remaining speakers." title="A photo of a mostly empty breakout room. A few students are chatting with the remaining speakers.">
 
 At 5pm, students return to the Auditorium for Dismissal and Teardown. From there, badges are collected, and our ILC team cleans up and tears down anything not needed for Sunday. After a quick debrief, the team gets food and returns to their hotel ready to go for Sunday morning.
 
-<img width="49%" loading="lazy" src="/content/20240222/crowd.avif" alt="">
+<img width="49%" loading="lazy" src="/content/20240222/crowd.avif" alt="A crowd shot from the TechOlympics Auditorium." title="A crowd shot from the TechOlympics Auditorium.">
 
 
 ## Sunday
@@ -145,7 +145,7 @@ Sunday morning goes much like Saturday morning. Registration opens, students are
 
 At 1pm, students are directed to their final set of breakout sessions, and a list of competition winners is given to our script manager to be added to the slide deck. 
 
-<img width="39%" loading="lazy" src="/content/20240222/competitions.avif" alt="">
+<img width="39%" loading="lazy" src="/content/20240222/competitions.avif" alt="A photo of three students focused intensely on their laptops during a competition. Two speakers are visible behind them, smiling." title="A photo of three students focused intensely on their laptops during a competition. Two speakers are visible behind them, smiling.">
 
 
 At 2pm, students are directed to dismissal and the awards ceremony in the Auditorium. This Awards ceremony rewards students who won competitions, the best Showcase Project, and other engaged students who submitted Session Feedback and talked to our corporate sponsors. Once that completes, badges are collected, and final teardown begins, packing up everything that we brought to the venue and transporting it back to our office.
