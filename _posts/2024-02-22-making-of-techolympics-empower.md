@@ -11,7 +11,7 @@ Anyone who knows me, knows that I am incredibly passionate about the work I do a
 <!--more-->
 TechOlympics is the largest student-run tech conference in the country. 30 high school students, supervised and assisted by only three members of our adult Central Office. TechOlympics offers students keynote presentations, informational breakout presentations, exciting competitions, workshops that teach real tech skills, and more. In this post, I'd like to give you a tour behind the scenes of each step of the planning process, from September to February, showing what it takes to make this conference happen.
 
-This is an abridged draft of my "Making of TechOlympics" post that I started writing back in 2024. For a more complete deep dive, check out the [one I wrote in 2025](https://cassian.cc/2025/02/22/making-of-techolympics-inspire).
+This is an edited first draft of my "Making of TechOlympics" post focused on the making of TechOlympics 2024. For a more complete deep dive, check out the [one I wrote in 2025](https://cassian.cc/2025/02/22/making-of-techolympics-inspire).
 
 ## Foundations
 
@@ -65,12 +65,11 @@ Welcome to January! We have two full council meetings this month, as we'll be tr
 
 Early Bird Registration was set to close January 1st, but was extended to the 12th to give students a little extra time to register. The Marketing Team worked hard on one final push to get as many people registered there as possible.
 
-<img loading="lazy" width="39%" src="/content/20240222/early-bird-extend.avif" alt="">
+<img loading="lazy" width="39%" src="/content/20240222/early-bird-extend.avif" alt="A social media post with the text 'TechOlympics Early Bird Registration has been extended till January 12th, 2024'" title="A social media post with the text 'TechOlympics Early Bird Registration has been extended till January 12th, 2024'">
 
 The Finance Team also launches the Call for Volunteers around this time, which gives Marketing another thing to promote.
 
-<img loading="lazy" width="39%" src="/content/20240222/volunteer.avif" alt="">
-
+<img loading="lazy" width="39%" src="/content/20240222/volunteer.avif" alt="A social media post with the text 'Volunteer Today!' and the subtitle 'TechOlympics 2024'" title="A social media post with the text 'Volunteer Today!' and the subtitle 'TechOlympics 2024'">
 
 We kick off the year with a venue walk through, giving our team a chance to see what we'll be working with at the event. This is particularly important for Programs, as they'll be in charge of scheduling speakers sessions in these rooms. After that, our Chapters team sends out a form for schools to pick the timeslot that they'll present their Showcase project at during TechOlympics. Our Data team also sets up the Post-Event survey, Session Feedback forms, and Outstanding Student Form for this year's event. Our Marketing team is busy finishing up the branding for Whova, our event management app. During this time, ILC members also get to propose the competitions they want to run at TechOlympics. This includes Wiki Races, Speed Typing, iMovie, and more!
 
@@ -88,9 +87,11 @@ To start off, our IT Team uploads the [finalized schedule](https://empower.techo
 
 The Graphic Designer also works with the Finance Team to design banners, posters, and other signage that will be placed to direct traffic. Our IT team finishes installation of all software that will be used at the event. Our Data Team determines how many T-Shirts are needed for both our staff and our attendees and has the order placed. Data also sends special dietary considerations to the venue's catering. Finance works with our IT Team to finalize the list of Sponsors and get the information onto the website.
 
+<img loading="lazy" width="39%" src="/content/20240222/laptops.avif" alt="A photo of students setting up laptops for the event." title="A photo of students setting up laptops for the event.">
+
 Our Data Team is then able to officially open Whova to attendees. In Whova, attendees are able to look at the schedule, sign up for sessions, and interact with other students and speakers. This information alongside the event logistics are included in the Attendee FAQ email that is sent out, as well as in a Marketing push.
 
-<img width="39%" loading="lazy" src="/content/20240222/whova-push.avif" alt="">
+<img width="39%" loading="lazy" src="/content/20240222/whova-push.avif" alt="A social media with instructions for students to download the Whova app, sign into the TechOlympics Whova event, and create their schedule for the weekend before the event." title="A social media with instructions for students to download the Whova app, sign into the TechOlympics Whova event, and create their schedule for the weekend before the event.">
 
 Our IT Team finishes up testing the laptops and packs them away to take to the venue. Our Web Developer (that's me!) adds the ILC and INTERnship application forms to the website, and all remaining printed material - including the Sponsor Booth Layout, directional signage, and Block Schedules are printed. Finally, Name Badges for all five hundred attendees are printed, assembled, and sorted alphabetically to be distributed at registration.
 
@@ -106,7 +107,7 @@ Our team gets to work sorting and organizing T-Shirts, setting up registration t
 
 A unique (and unfortunately, not long lasting) feature of this year's setup process was installing a balloon arch in the registration area. It livened up the grey lobby - but broke fairly early into Saturday. Excuse the poor photo quality - my camera was on the wrong setting.
 
-<img width="39%" loading="lazy" src="/content/20240222/arch.avif" alt="">
+<img width="39%" loading="lazy" src="/content/20240222/arch.avif" alt="A photo of ILC members setting up a colourful balloon arch in the registration area." title="A photo of ILC members setting up a colourful balloon arch in the registration area.">
 
 ## Saturday Morning
 
